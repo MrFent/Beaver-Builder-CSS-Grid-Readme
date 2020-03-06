@@ -28,5 +28,5 @@ Go to <a href="https://mrfent.com/beaver-builder-css-grid/">MrFent.com</a> to se
 == Changelog ==
 
 = 1.0.0 =
-* Released 20220-03-05
+* Released 2020-03-05
 * Initial release.

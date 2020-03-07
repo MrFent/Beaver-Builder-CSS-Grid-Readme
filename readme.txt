@@ -1,7 +1,7 @@
 === Beaver Builder CSS Grid ===
 Tags: beaver builder, beaver builder modules, beaverbuilder, css grid, cssgrid
 Requires at least: 4.9
-Tested up to: 5.3
+Tested up to: 5.3.2
 Requires PHP: 5.6
 Stable tag: 1.0
 License: GPLv3 or later

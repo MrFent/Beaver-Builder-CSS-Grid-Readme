@@ -3,7 +3,7 @@ Tags: beaver builder, beaver builder modules, beaverbuilder, css grid, cssgrid
 Requires at least: 4.9
 Tested up to: 5.3.2
 Requires PHP: 5.6
-Stable tag: 1.0
+Stable tag: 5.3.2
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 

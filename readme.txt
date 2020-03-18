@@ -1,9 +1,6 @@
 === Beaver Builder CSS Grid ===
 Tags: beaver builder, beaver builder modules, beaverbuilder, css grid, cssgrid
-Requires at least: 4.9
 Tested up to: 5.3.2
-Requires PHP: 5.6
-Stable tag: 5.3.2
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -28,5 +25,5 @@ Go to <a href="https://mrfent.com/beaver-builder-css-grid/">MrFent.com</a> to se
 == Changelog ==
 
 = 1.0.0 =
-* Released 2020-03-05
+* Released 2020-03-18
 * Initial release.

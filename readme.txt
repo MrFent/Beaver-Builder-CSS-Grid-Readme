@@ -27,6 +27,14 @@ Go to <a href="https://mrfent.com/beaver-builder-css-grid/">MrFent.com</a> to se
 
 == Changelog ==
 
+
+= 1.1.0 =
+* Released 2022-12-1
+* Added z-index option to Grid Items.
+* Added support for Large responsive breakpoint.
+* Consolidated medium and small option fields.
+* Added new Advanced CSS Grid shortcodes: [medium-large-xl], [large-xl], & [xl]
+
 = 1.0.0 =
 * Released 2020-03-18
 * Initial release.
